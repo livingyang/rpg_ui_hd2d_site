@@ -42,7 +42,7 @@ export default defineConfig((/* ctx */) => {
 
     // Full list of options: https://v2.quasar.dev/quasar-cli-webpack/quasar-config-file#build
     build: {
-      publicPath: './',
+      publicPath: '/rpg_ui_hd2d_site',
       vueRouterMode: 'hash', // available values: 'hash', 'history'
 
       // webpackTranspile: false,
